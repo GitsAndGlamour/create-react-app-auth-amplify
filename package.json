@@ -8,7 +8,8 @@
     "bootstrap": "^4.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "typescript": "^3.8.3"
   },
   "resolutions": {
     "set-value": "^2.0.1",
@@ -29,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "cypress": "^4.4.1"
+  }
 }
